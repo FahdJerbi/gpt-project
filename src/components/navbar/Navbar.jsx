@@ -20,7 +20,7 @@ const Menu = () => (
     </p>
     <p>
       {" "}
-      <a href="#feaetures">Case Studies</a>{" "}
+      <a href="#features">Case Studies</a>{" "}
     </p>
     <p>
       {" "}
